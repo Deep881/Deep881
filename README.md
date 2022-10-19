@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Deep881
-- 👀 I’m interested in Female
 - 🌱 I’m currently learning Mechanical Engineering
 - 💞️ I’m looking to collaborate on 8080679673
 - 📫 How to reach me Pune

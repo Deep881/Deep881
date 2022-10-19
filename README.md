@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Deep881
-- 🌱 I’m currently learning Mechanical Engineering
-- 💞️ I’m looking to collaborate on 8080679673
+- 🌱 I’m currently learning Front End Development 
+- learning and learning for earning
 - 📫 How to reach me Pune
+- 
 
 <!---
 Deep881/Deep881 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
